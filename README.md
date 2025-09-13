@@ -14,7 +14,7 @@
 I'm Burhan, a passionate developer and Machine Learning enthusiast based in Karachi, Pakistan. I'm currently involved in various projects, particularly focusing on AI and automation.
 </p>
 <pre style="text-align: left; padding-top: 15px;">
-    🎓 BSC Sophomore @ NUCES
+    🎓 BSC Junior @ NUCES
     💻 Machine Learning • ☁ Cloud Computing 
     💻 DevOps • 🔧 MlOps
     ☁ Exploring DevOps and Distributed Systems

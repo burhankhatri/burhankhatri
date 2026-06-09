@@ -155,41 +155,33 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=burhankhatri&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
-  <img src="https://github-profile-trophy.vercel.app/?username=burhankhatri&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" width="97%" alt="GitHub trophies" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=burhankhatri&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com?user=burhankhatri&theme=default&hide_border=true" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=burhankhatri&theme=default&hide_border=true" alt="GitHub streak" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=burhankhatri&show_icons=true&hide_border=true&bg_color=00000000&title_color=E6EDF3&icon_color=8B949E&text_color=8B949E&ring_color=E6EDF3&rank_icon=github&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=burhankhatri&show_icons=true&hide_border=true&bg_color=00000000&title_color=111111&icon_color=555555&text_color=555555&ring_color=111111&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=burhankhatri&hide_border=true&background=00000000&ring=E6EDF3&fire=E6EDF3&currStreakNum=E6EDF3&currStreakLabel=8B949E&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=burhankhatri&hide_border=true&background=00000000&ring=111111&fire=111111&currStreakNum=111111&currStreakLabel=555555&sideNums=111111&sideLabels=555555&dates=8B949E&stroke=EAEAEA" alt="GitHub streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=burhankhatri&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=burhankhatri&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhankhatri&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=burhankhatri&layout=compact&hide_border=true&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&langs_count=8" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhankhatri&layout=compact&hide_border=true&bg_color=00000000&title_color=111111&text_color=555555&langs_count=8" alt="Top languages" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=burhankhatri&bg_color=00000000&color=8B949E&line=E6EDF3&point=E6EDF3&area=true&area_color=8B949E&hide_border=true&radius=8&custom_title=Contribution+Graph" />
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=burhankhatri&bg_color=00000000&color=555555&line=111111&point=111111&area=true&area_color=555555&hide_border=true&radius=8&custom_title=Contribution+Graph" alt="Contribution graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=burhankhatri&theme=github-dark&hide_border=true&radius=8&custom_title=Contribution%20Graph" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=burhankhatri&theme=github-light&hide_border=true&radius=8&custom_title=Contribution%20Graph" />
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=burhankhatri&theme=github-light&hide_border=true&radius=8&custom_title=Contribution%20Graph" alt="Contribution graph" />
 </picture>
 
 <br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/burhankhatri/burhankhatri/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/burhankhatri/burhankhatri/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/burhankhatri/burhankhatri/output/github-snake-dark.svg" alt="Contribution snake" width="97%" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/burhankhatri/burhankhatri/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/burhankhatri/burhankhatri/output/github-snake.svg" alt="Contribution snake" width="97%" />
 </picture>
 
 </div>
